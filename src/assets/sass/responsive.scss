@@ -1,0 +1,32 @@
+@media (max-width: 425px) {
+
+    .content {
+
+        li {
+            padding: 10px 0;
+
+            .arrow {
+                margin-left: 20px;
+            }
+
+            .topics  {
+                margin-right: 15px;
+            }
+        }
+    }
+
+    nav {
+        margin-top: -50px;
+        .home {
+            font-size: .5em;
+        }
+
+        ul {
+            padding-top: 10px;
+        }
+
+        li {
+            font-size: .7em;
+        }
+    }
+}
